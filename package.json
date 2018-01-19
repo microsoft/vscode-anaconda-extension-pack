@@ -1,0 +1,21 @@
+{
+    "name": "anaconda-extension-pack",
+    "version": "1.0.0",
+    "publisher": "Microsoft",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "license": "SEE LICENSE IN LICENSE",
+    "displayName": "Anaconda Extension Pack",
+    "description": "The Anaconda Extension Pack is a set of extensions that enhance the experience of Anaconda customers using Visual Studio Code",
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "python", "anaconda", "conda"
+    ],
+    "extensionDependencies": [
+        "ms-python.python",
+        "redhat.vscode-yaml"
+    ]
+}
