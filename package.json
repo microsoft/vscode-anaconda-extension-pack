@@ -8,6 +8,7 @@
     "license": "MIT",
     "displayName": "Anaconda Extension Pack",
     "description": "The Anaconda Extension Pack is a set of extensions that enhance the experience of Anaconda customers using Visual Studio Code",
+    "icon": "./icon.png",
     "categories": [
         "Extension Packs"
     ],
