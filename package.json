@@ -19,7 +19,7 @@
     "keywords": [
         "python", "anaconda", "conda"
     ],
-    "extensionDependencies": [
+    "extensionPack": [
         "ms-python.python",
         "redhat.vscode-yaml"
     ]
